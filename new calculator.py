@@ -18,7 +18,6 @@ def pi_press():
     equation_text += 'π'  # Add the symbol 'π' to the equation
     equation_label.set(equation_text)
 
-
 def equals():
     global equation_text
     try:
